@@ -3,9 +3,8 @@
         "en"
     ],
     "spellright.documentTypes": [
-        "markdown",
+/*         "markdown",
         "latex",
-        "plaintext",
-        "javascript"
+        "plaintext" */
     ]
 }
